@@ -1,0 +1,31 @@
+ /* Configura a fonte e o padding do body */
+ body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Estiliza o título (h1) */
+h1 {
+    color: #333;
+}
+
+/* Remove os marcadores e o padding das listas */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Estiliza os itens da lista */
+li {
+    background-color: #f0f0f0;
+    margin: 5px 0;
+    padding: 30%;
+}
+
+/* Estiliza os botões */
+button {
+    margin: 10px 5px;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
